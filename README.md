@@ -4,7 +4,7 @@ Second-year B.Tech student in Electronics & Communication Engineering (IoT) at M
 
 I work on embedded sensing, adaptive inference and reproducible controller testing.
 
-[Portfolio](https://abhisheks0.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhishekkumarsingh100) · [Email](mailto:abhishekkrsingh2345@gmail.com)
+[Portfolio](https://abhishekkrsingh-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/abhishekkumarsingh100) · [Email](mailto:abhishekkrsingh2345@gmail.com)
 
 ## Selected projects
 
@@ -28,8 +28,8 @@ I work on embedded sensing, adaptive inference and reproducible controller testi
 
 ## Portfolio
 
-The [Engineering Frontier portfolio](https://abhisheks0.vercel.app/) brings together case studies, code excerpts and recorded evidence, with an interactive UART-style browser console.
+The [Engineering Frontier portfolio](https://abhishekkrsingh-portfolio.netlify.app/) brings together case studies, code excerpts and recorded evidence, with an interactive UART-style browser console.
 
-[Portfolio source](https://github.com/abhishekkr10/portfolio) — React, TypeScript, Vite and Tailwind, deployed on Vercel and AWS Amplify.
+[Portfolio source](https://github.com/abhishekkr10/portfolio) — React, TypeScript, Vite and Tailwind, deployed on Netlify and AWS Amplify.
 
 The [AWS Amplify version](https://main.d3uqlqzdn1kqb0.amplifyapp.com/) is also available for the AWS Student Builder Challenge submission.
