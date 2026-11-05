@@ -32,4 +32,3 @@ The [Engineering Frontier portfolio](https://abhishekkrsingh-portfolio.netlify.a
 
 [Portfolio source](https://github.com/abhishekkr10/portfolio) — React, TypeScript, Vite and Tailwind, deployed on Netlify and AWS Amplify.
 
-The [AWS Amplify version](https://main.d3uqlqzdn1kqb0.amplifyapp.com/) is also available for the AWS Student Builder Challenge submission.
