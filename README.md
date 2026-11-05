@@ -30,4 +30,6 @@ I work on embedded sensing, adaptive inference and reproducible controller testi
 
 The [Engineering Frontier portfolio](https://abhisheks0.vercel.app/) brings together case studies, code excerpts and recorded evidence, with an interactive UART-style browser console.
 
+[Portfolio source](https://github.com/abhishekkr10/portfolio) — React, TypeScript, Vite and Tailwind, deployed on Vercel and AWS Amplify.
+
 The [AWS Amplify version](https://main.d3uqlqzdn1kqb0.amplifyapp.com/) is also available for the AWS Student Builder Challenge submission.
