@@ -13,7 +13,7 @@ I work on embedded sensing, adaptive inference and reproducible controller testi
 | [AeroNode](https://github.com/abhishekkr10/AeroNode) | C++17 early-exit inference with ONNX Runtime. Recorded **25.2% lower mean latency** in a controlled Windows CPU benchmark, with an explicit accuracy trade-off. |
 | [SafeTrack — team project](https://github.com/inamansingh2401/tamperproject) | ESP32-S3 sensing, signed telemetry and a durable gateway. My contributions cover architecture, firmware, gateway/backend/storage work and dashboard-design contribution. This is Naman Singh's original team repository. |
 | [CausalBench](https://github.com/abhishekkr10/CausalBench) | Repeatable sensor faults, controller replay, failure minimization and reproducible evidence. Actuation is simulated. |
-| [JOCKY](https://github.com/abhishekkr10/jocky-forensics) | Rust compiler and evidence-chain checks, Python/FastAPI orchestration and Ed25519 checkpoints, and a local React/TypeScript console with a static synthetic demo. |
+| [JOCKY](https://github.com/abhishekkr10/jocky-forensics) | Python/FastAPI orchestration and Ed25519 checkpoints, a Rust compiler and evidence-chain checks, and a local React/TypeScript console with a static synthetic demo. |
 
 ## Technical focus
 
