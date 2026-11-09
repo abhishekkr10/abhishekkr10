@@ -1,6 +1,6 @@
 # Abhishek Kumar Singh
 
-Second-year B.Tech ECE (IoT) student at MMMUT Gorakhpur (2025–2029), focused on Embedded Systems, Edge AI and IoT internships. Long-term goal: IoT Solutions Architect.
+Second-year B.Tech ECE (IoT) student at MMMUT Gorakhpur (2025–2029), focused on Embedded Systems, Edge AI and IoT internships.
 
 [Portfolio](https://abhishekkrsingh-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/abhishekkumarsingh100) · [Email](mailto:abhishekkrsingh2345@gmail.com)
 
